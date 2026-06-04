@@ -5,7 +5,7 @@ venv/
 .kiro/
 
 #Images
-.png
+*.png
 
 #Dataset
 household_power_consumption.csv
