@@ -124,12 +124,27 @@ python -c "import pandas; import sklearn; print('Installation successful!')"
 
 ### Quick Start
 
-#### 1️⃣ **Run the Jupyter Notebook**
+#### 1️⃣ **Run the Streamlit Demo** ⭐ (Recommended)
+```bash
+streamlit run app.py
+```
+Or simply double-click `run_app.bat` (Windows)
+
+The interactive demo includes:
+- 📊 Dataset exploration with statistics
+- 🤖 Complete ML pipeline walkthrough
+- 📈 Interactive visualizations (Actual vs Predicted)
+- 💡 Key insights and findings
+- 📸 Feature importance and model results
+
+See [STREAMLIT_GUIDE.md](STREAMLIT_GUIDE.md) for detailed instructions.
+
+#### 2️⃣ **Run the Jupyter Notebook**
 ```bash
 jupyter notebook notebook.ipynb
 ```
 
-#### 2️⃣ **Or Execute as Python Script**
+#### 3️⃣ **Or Execute as Python Script**
 ```python
 # Load and preprocess data
 import pandas as pd
@@ -148,7 +163,7 @@ rf_model.fit(X_train_scaled, y_train)
 predictions = rf_model.predict(X_test_scaled)
 ```
 
-#### 3️⃣ **View Predictions**
+#### 4️⃣ **View Predictions**
 ```bash
 # Output saved to smart_power_predictions.csv
 head smart_power_predictions.csv
