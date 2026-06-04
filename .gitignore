@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+#Kiro
+.kiro/
+
+#Images
+.png
+
+#Dataset
+household_power_consumption.csv
+
