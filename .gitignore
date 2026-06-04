@@ -10,6 +10,3 @@ venv/
 #Dataset
 household_power_consumption.csv
 
-#Streamlit app
-app.py
-
