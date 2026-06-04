@@ -269,10 +269,10 @@ Gradient Boosting        0.0195      0.0320       0.9989
 ### Visualization Examples
 
 #### Actual vs Predicted (Random Forest)
-![alt text](image.png)
+<img width="1389" height="490" alt="Image" src="https://github.com/user-attachments/assets/96cc163b-4d77-4c0a-abe7-28aa62b8e3d0" />
 
 #### Feature Importance
-![alt text](image-1.png)
+<img width="790" height="590" alt="Image" src="https://github.com/user-attachments/assets/ea64f359-4eae-4521-bee8-dfd0b6e3c9f8" />
 
 ---
 
