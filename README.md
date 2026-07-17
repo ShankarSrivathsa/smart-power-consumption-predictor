@@ -321,3 +321,9 @@ Key research papers and resources that informed this project:
 ### Reporting Issues
 
 Found a bug or have a suggestion? Please [open an issue](https://github.com/yourusername/smart-power-predictor/issues) on GitHub.
+
+---
+#### A Team project
+- (A Shankar Srivathsa)[https://github.com/ShankarSrivathsa]
+- (S Sidharth)[https://github.com/Shidoizuo]
+- (V Thamoghna)[https://github.com/Thamoghna]
