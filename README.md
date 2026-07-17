@@ -324,6 +324,6 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/your
 
 ---
 #### A Team project
-- (A Shankar Srivathsa)[https://github.com/ShankarSrivathsa]
-- (S Sidharth)[https://github.com/Shidoizuo]
-- (V Thamoghna)[https://github.com/Thamoghna]
+- [A Shankar Srivathsa](https://github.com/ShankarSrivathsa)
+- [S Sidharth](https://github.com/Shidoizuo)
+- [V Thamoghna](https://github.com/Thamoghna)
